@@ -1,0 +1,11 @@
+#number-button{
+    padding: 16px 32px;
+}
+
+#number-button:hover{
+    color:rgb(124, 124, 124);
+}
+
+#big-number-button{
+    padding: 8px 8px;
+}
